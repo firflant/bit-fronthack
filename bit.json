@@ -1,0 +1,9 @@
+{
+    "env": {},
+    "dependencies": {
+        "frontcraft.fronthack/globals/styles": "0.0.1",
+        "frontcraft.fronthack/globals/form": "0.0.2"
+    },
+    "componentsDefaultDirectory": "src/{namespace}/{name}",
+    "packageManager": "npm"
+}
