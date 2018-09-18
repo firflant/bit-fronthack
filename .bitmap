@@ -87,5 +87,59 @@
         "origin": "IMPORTED",
         "originallySharedDir": "src/globals/form"
     },
+    "components/tags": {
+        "files": [
+            {
+                "relativePath": "src/components/tags/Tags.js",
+                "test": false,
+                "name": "Tags.js"
+            },
+            {
+                "relativePath": "src/components/tags/index.js",
+                "test": false,
+                "name": "index.js"
+            },
+            {
+                "relativePath": "src/components/tags/static.html",
+                "test": false,
+                "name": "static.html"
+            },
+            {
+                "relativePath": "src/components/tags/style.sass",
+                "test": false,
+                "name": "style.sass"
+            }
+        ],
+        "mainFile": "src/components/tags/index.js",
+        "trackDir": "src/components/tags",
+        "origin": "AUTHORED"
+    },
+    "components/nav-vertical": {
+        "files": [
+            {
+                "relativePath": "src/components/nav-vertical/NavVertical.js",
+                "test": false,
+                "name": "NavVertical.js"
+            },
+            {
+                "relativePath": "src/components/nav-vertical/index.js",
+                "test": false,
+                "name": "index.js"
+            },
+            {
+                "relativePath": "src/components/nav-vertical/static.html",
+                "test": false,
+                "name": "static.html"
+            },
+            {
+                "relativePath": "src/components/nav-vertical/style.sass",
+                "test": false,
+                "name": "style.sass"
+            }
+        ],
+        "mainFile": "src/components/nav-vertical/index.js",
+        "trackDir": "src/components/nav-vertical",
+        "origin": "AUTHORED"
+    },
     "version": "13.0.4"
 }
