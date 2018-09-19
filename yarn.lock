@@ -2,6 +2,12 @@
 # yarn lockfile v1
 
 
+"@bit/frontcraft.fronthack.globals.form@file:./src/globals/form":
+  version "0.0.0"
+
+"@bit/frontcraft.fronthack.globals.styles@file:./src/globals/styles":
+  version "0.0.0"
+
 abab@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/abab/-/abab-1.0.4.tgz#5faad9c2c07f60dd76770f71cf025b62a63cfd4e"

@@ -87,7 +87,7 @@
         "origin": "IMPORTED",
         "originallySharedDir": "src/globals/form"
     },
-    "components/tags": {
+    "frontcraft.fronthack/components/tags@0.0.3": {
         "files": [
             {
                 "relativePath": "src/components/tags/Tags.js",
@@ -112,9 +112,10 @@
         ],
         "mainFile": "src/components/tags/index.js",
         "trackDir": "src/components/tags",
-        "origin": "AUTHORED"
+        "origin": "AUTHORED",
+        "mainDistFile": "dist/src/components/tags/index.js"
     },
-    "components/nav-vertical": {
+    "frontcraft.fronthack/components/nav-vertical@0.0.6": {
         "files": [
             {
                 "relativePath": "src/components/nav-vertical/NavVertical.js",
@@ -139,7 +140,8 @@
         ],
         "mainFile": "src/components/nav-vertical/index.js",
         "trackDir": "src/components/nav-vertical",
-        "origin": "AUTHORED"
+        "origin": "AUTHORED",
+        "mainDistFile": "dist/src/components/nav-vertical/index.js"
     },
     "version": "13.0.4"
 }
